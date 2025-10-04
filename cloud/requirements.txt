@@ -1,0 +1,6 @@
+# requirements.txt
+pandas
+scikit-learn
+numpy
+gunicorn
+Flask
